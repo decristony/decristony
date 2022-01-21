@@ -1,4 +1,4 @@
-
+![MasterHead](header.png)](https://github.com/decristony)
 
 ## Olá eu sou Decristony
 
@@ -7,10 +7,11 @@
 - 📚📚Estudando: React, Node, Typescript e Wordpress(para freela).
 - 📘📘📘 Confira meu portfolio aqui 👉 https://decristony.github.io/Portfolio-/
 
+
 <div >
   <a href="https://decristony.github.io/Portfolio-/">
-  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=decristony&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decristony&layout=compact&langs_count=7&theme=react"/>
+  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=decristony&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decristony&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 <div style="display: inline_block"><br>
