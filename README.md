@@ -1,4 +1,4 @@
-![MasterHead](header.png)](https://github.com/decristony)
+![MasterHead](header.png)
 
 ## Olá eu sou Decristony
 
